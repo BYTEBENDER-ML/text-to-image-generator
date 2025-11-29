@@ -1,0 +1,5 @@
+venv/
+output_images/
+models/
+__pycache__/
+*.log

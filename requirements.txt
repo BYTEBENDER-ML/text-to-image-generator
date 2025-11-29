@@ -1,0 +1,11 @@
+torch
+diffusers>=0.22.0
+transformers
+accelerate
+safetensors
+huggingface-hub
+streamlit
+pillow
+ftfy
+opencv-python
+python-dotenv
